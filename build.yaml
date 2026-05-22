@@ -3,4 +3,4 @@ include:
   - board: seeeduino_xiao_ble
     shield: remote
   - board: seeeduino_xiao_ble
-    shield: tester_xiao
+    shield: settings_reset
