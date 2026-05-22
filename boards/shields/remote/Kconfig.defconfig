@@ -3,10 +3,12 @@ if SHIELD_REMOTE
 config ZMK_KEYBOARD_NAME
     default "Remote"
 
-config GPIO_MCP23X17
+config GPIO_MCP230XX
     default y
 
 config I2C
     default y
 
 endif
+~
+~
